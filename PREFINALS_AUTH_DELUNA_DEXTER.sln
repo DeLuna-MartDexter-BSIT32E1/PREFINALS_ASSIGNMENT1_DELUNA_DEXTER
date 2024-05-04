@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34622.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PREFINALS_AUTH_DELUNA_DEXTER", "PREFINALS_AUTH_DELUNA_DEXTER.csproj", "{7EFEA4B5-2B14-4031-BE66-8A25178C4900}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProtectedApi", "ProtectedApi\ProtectedApi.csproj", "{7F66DE2D-FEC4-4F62-9017-A584E355B296}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AuthServer", "AuthServer\AuthServer.csproj", "{F7B822E7-A52A-49CA-AB81-710D4CE67A17}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7EFEA4B5-2B14-4031-BE66-8A25178C4900}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7EFEA4B5-2B14-4031-BE66-8A25178C4900}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7EFEA4B5-2B14-4031-BE66-8A25178C4900}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7EFEA4B5-2B14-4031-BE66-8A25178C4900}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7F66DE2D-FEC4-4F62-9017-A584E355B296}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F66DE2D-FEC4-4F62-9017-A584E355B296}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F66DE2D-FEC4-4F62-9017-A584E355B296}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F66DE2D-FEC4-4F62-9017-A584E355B296}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F7B822E7-A52A-49CA-AB81-710D4CE67A17}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7B822E7-A52A-49CA-AB81-710D4CE67A17}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7B822E7-A52A-49CA-AB81-710D4CE67A17}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7B822E7-A52A-49CA-AB81-710D4CE67A17}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C008F74D-9BCC-4D46-ABDA-6D939A6A5B0C}
+	EndGlobalSection
+EndGlobal
