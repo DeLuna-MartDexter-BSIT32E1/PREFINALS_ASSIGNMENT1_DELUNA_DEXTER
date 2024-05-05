@@ -1,4 +1,4 @@
 ﻿public static class Secret
 {
-    public const string Key = "SuperSecretKey123456!@#";
+    public const string Key = "SuperSecretKey12345678999999";
 }
