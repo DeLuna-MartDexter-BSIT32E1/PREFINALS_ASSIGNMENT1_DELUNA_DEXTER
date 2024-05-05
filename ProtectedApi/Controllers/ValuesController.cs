@@ -39,6 +39,11 @@ namespace ProtectedApi
 
     public class NameModel
     {
-        public string? Name { get; set; }
+        private string? _name = "IT ELECTIVE";
+        public string? Name
+        {
+            get { return _name == "string" ? "IT ELECTIVE" : _name; }
+            set { _name = value; }
+        }
     }
 }
