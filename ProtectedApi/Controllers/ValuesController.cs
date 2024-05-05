@@ -39,10 +39,10 @@ namespace ProtectedApi
 
     public class NameModel
     {
-        private string? _name = "IT ELECTIVE";
+        private string? _name = "Everyone";
         public string? Name
         {
-            get { return _name == "string" ? "IT ELECTIVE" : _name; }
+            get { return _name == "string" ? "Everyone" : _name; }
             set { _name = value; }
         }
     }
